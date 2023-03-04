@@ -1,0 +1,65 @@
+{
+  "program": {
+    "candyMachine": "9gMFxVbrPUYxn5zR7WWFGvBNJA8mXg76vJmSwDebEXh1",
+    "candyMachineCreator": "HDHda8qSPC172166EjV8VvkvRwBMtb8dt7KYCRGoCG8e",
+    "collectionMint": "HeA29pAsaiunnu5XuLzWKoiYQKG9CwidXsC1Sbwe47ae"
+  },
+  "items": {
+    "-1": {
+      "name": "Certificate Collection",
+      "image_hash": "8622dc7c98ca2414ea1e14a6afeaa864820accdf610fdadf636df93515a416f4",
+      "image_link": "https://arweave.net/CJtqVGxZFzheFDmzp6FuwA9LCW6A0wj_g48VDw7eLto?ext=gif",
+      "metadata_hash": "f178f5783411981dccda114edc20ac9111ce3367ec5b3dc6a39a427a300d5587",
+      "metadata_link": "https://arweave.net/kBt3llVXmOL1IFyx2eoxiYMvnH8RhmeEUI05E-zFlaM",
+      "onChain": true
+    },
+    "0": {
+      "name": "First Principle Mastery",
+      "image_hash": "8622dc7c98ca2414ea1e14a6afeaa864820accdf610fdadf636df93515a416f4",
+      "image_link": "https://arweave.net/fj6usPEqq1zIltUh3GROyFLGp7dqxZ_bfc2Uwq5QihY?ext=gif",
+      "metadata_hash": "cc7a21d738d5011d87ddd0ae86c600827389c91552c47295e34bd63750a3fe7c",
+      "metadata_link": "https://arweave.net/F8CJPymry5i_ktFF3uYlUrHapBSXkbYAO-GszVDtRT0",
+      "onChain": true
+    },
+    "1": {
+      "name": "First Principle Mastery",
+      "image_hash": "8622dc7c98ca2414ea1e14a6afeaa864820accdf610fdadf636df93515a416f4",
+      "image_link": "https://arweave.net/s_1_AudVJJrmhl7DENmQd9dAjReZjOc9q63vaVgmFbo?ext=gif",
+      "metadata_hash": "c508e0a93ce847168751f2394a23488ad775dcb3401f46b6d7e959d6a5ff2870",
+      "metadata_link": "https://arweave.net/iWBf1QIVHRBc4xeghQklIdlzx6-fPkgBqSOLUI4Pikc",
+      "onChain": true
+    },
+    "2": {
+      "name": "First Principle Mastery",
+      "image_hash": "8622dc7c98ca2414ea1e14a6afeaa864820accdf610fdadf636df93515a416f4",
+      "image_link": "https://arweave.net/_hgKShPXGgn2Nd2QhuvumIxTke8tRoMeNbLDmgnXqwE?ext=gif",
+      "metadata_hash": "64aef113a3591c333d4c454a27f1082fb12768d9123f24ad641785d5d3cb59bf",
+      "metadata_link": "https://arweave.net/JFQTImVvVHTWEE6t6M4PsqymN3rVN2FTtWHePMRxGO4",
+      "onChain": true
+    },
+    "3": {
+      "name": "First Principle Mastery",
+      "image_hash": "8622dc7c98ca2414ea1e14a6afeaa864820accdf610fdadf636df93515a416f4",
+      "image_link": "https://arweave.net/ZizkCJMFleLnZiBmbG4ZTBILCTjKc_Gek0KcU6EFpFQ?ext=gif",
+      "metadata_hash": "e9ea7cce8a5e170bef32f4d58ddbb12827f8e17724efc6c156eb35b76c28fce4",
+      "metadata_link": "https://arweave.net/9jqKEhmqSaT7oYiiOl2GJvMrmzwIakZtaSiMy1ySR9s",
+      "onChain": true
+    },
+    "4": {
+      "name": "First Principle Mastery",
+      "image_hash": "8622dc7c98ca2414ea1e14a6afeaa864820accdf610fdadf636df93515a416f4",
+      "image_link": "https://arweave.net/TDkKF2Zd2soL9dSqeabT8zBj03uD8RrUX3e3QykbaKw?ext=gif",
+      "metadata_hash": "86f93a1f7300b4c0f883d4cdd9c7b15af8b8f32449adca8d94453115cd537071",
+      "metadata_link": "https://arweave.net/XMOVXvd6Pm7g-qgRq3xutcTfDfv9Y7XNSneGZ81e13s",
+      "onChain": true
+    },
+    "5": {
+      "name": "First Principle Mastery",
+      "image_hash": "8622dc7c98ca2414ea1e14a6afeaa864820accdf610fdadf636df93515a416f4",
+      "image_link": "https://arweave.net/WbeT-k5iK7HI93cJmeD8K18aKjN468WCDOlyDhYeZhs?ext=gif",
+      "metadata_hash": "2d983745e886336ac13ad638326403ff90794bf8a9f8c41265e4ac3f5cc8be8c",
+      "metadata_link": "https://arweave.net/5Md-sNN7xt-QSS9t1yOByYohVqgsmZ1bF-YG_FACNxs",
+      "onChain": true
+    }
+  }
+}

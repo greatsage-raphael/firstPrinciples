@@ -1,0 +1,20 @@
+{
+    "name": "First Principle Mastery",
+    "description": "I present this achievement to the individual for recognition in first Principles ",
+    "image": "4.gif",
+    "symbol": "AUTO",
+    "attributes": [
+      {
+        "trait_type": "Certificate",
+        "value": "Nft"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "4.gif",
+          "type": "image/gif"
+        }
+      ]
+    }
+  }
